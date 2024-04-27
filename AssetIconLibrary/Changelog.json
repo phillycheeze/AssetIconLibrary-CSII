@@ -1,0 +1,13 @@
+[
+  {
+    "Stable": true,
+    "Version": "1.0.0",
+    "Date": "2024-04-27",
+    "ChangeGroups": [
+      {
+        "Name": "Initial Release",
+        "Changes": []
+      }
+    ]
+  }
+]

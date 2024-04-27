@@ -1,0 +1,49 @@
+﻿<Publish>
+	<ModId Value="" />
+	<DisplayName Value="Asset Icon Library" />
+	<ShortDescription Value="Populate your game's assets with thousands of thumbnails." />
+	<LongDescription>
+# Asset Icon Library
+Add thumbnails to all of the game's assets!
+
+From props, to buildings, and brands' billboards and signs. Add over 8000 thumbnails to your game, and counting!
+
+
+## A community effort.
+The thumbnail initiative was a collaborative project organised by TDW and Sully. Asset Icon Library wouldn’t have been possible without the kind individuals who volunteered their time to help us screenshot the entire asset roster, they really did an incredible job. So a big thank you to everyone who was involved!
+
+Dev team: Harbourmaster Jay, Dome, Chameleon TBN, Tigon Ologdring
+
+Volunteers: Dushess, TheBusStop, LeoLegal, Sacavain, JouleThief, Bagi, StarQ, ShelleySkylines, HH_Afterdark, Skilzthatkilz11, BakerBytes 
+
+
+## Where will I see the thumbnails?
+Asset Icon Library populates the assets' icons in:
+* The vanilla toolbars
+* The "Add Object" menu
+* Find It!
+* Any mod that makes use of asset thumbnails.
+
+
+## Can I add my own thumbnails?
+In Asset Icon Library's settings page, you can open the "Custom Thumbnails Folder" where you can add your own thumbnails which are then automatically used in-game.
+
+This allows you to add your own thumbnails without needing to overwrite any file in the mod itself, where your thumbnails could be lost on the next mod update.
+	</LongDescription>
+	<Thumbnail Value="Properties/Thumbnail.png" />
+	<Screenshot Value="Properties/Screenshot_01.png" />
+	<Screenshot Value="Properties/Screenshot_02.png" />
+	<Screenshot Value="Properties/Screenshot_03.png" />
+	<Screenshot Value="Properties/Screenshot_04.png" />
+	<Screenshot Value="Properties/Screenshot_05.png" />
+	<Screenshot Value="Properties/Screenshot_06.png" />
+	<Screenshot Value="Properties/Screenshot_07.png" />
+	<Screenshot Value="Properties/Screenshot_08.png" />
+	<Screenshot Value="Properties/Screenshot_09.png" />
+	<Screenshot Value="Properties/Screenshot_10.png" />
+	<Tag Value="Code Mod" />
+	<ForumLink Value="https://forum.paradoxplaza.com/forum/threads/asset-icon-library.1672325/" />
+	<ModVersion Value="1.0" />
+	<GameVersion Value="1.*" />
+	<ExternalLink Type="discord" Url="https://discord.gg/E4k8ZEtRxd" />
+</Publish>

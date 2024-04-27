@@ -1,8 +1,9 @@
-﻿<Publish>
-	<ModId Value="" />
-	<DisplayName Value="Asset Icon Library" />
-	<ShortDescription Value="Populate your game's assets with thousands of thumbnails." />
-	<LongDescription>
+<?xml version="1.0" encoding="utf-8"?>
+<Publish>
+  <ModId Value="79634" />
+  <DisplayName Value="Asset Icon Library" />
+  <ShortDescription Value="Populate your game's assets with thousands of thumbnails." />
+  <LongDescription>
 # Asset Icon Library
 Add thumbnails to all of the game's assets!
 
@@ -29,21 +30,26 @@ Asset Icon Library populates the assets' icons in:
 In Asset Icon Library's settings page, you can open the "Custom Thumbnails Folder" where you can add your own thumbnails which are then automatically used in-game.
 
 This allows you to add your own thumbnails without needing to overwrite any file in the mod itself, where your thumbnails could be lost on the next mod update.
-	</LongDescription>
-	<Thumbnail Value="Properties/Thumbnail.png" />
-	<Screenshot Value="Properties/Screenshot_01.png" />
-	<Screenshot Value="Properties/Screenshot_02.png" />
-	<Screenshot Value="Properties/Screenshot_03.png" />
-	<Screenshot Value="Properties/Screenshot_04.png" />
-	<Screenshot Value="Properties/Screenshot_05.png" />
-	<Screenshot Value="Properties/Screenshot_06.png" />
-	<Screenshot Value="Properties/Screenshot_07.png" />
-	<Screenshot Value="Properties/Screenshot_08.png" />
-	<Screenshot Value="Properties/Screenshot_09.png" />
-	<Screenshot Value="Properties/Screenshot_10.png" />
-	<Tag Value="Code Mod" />
-	<ForumLink Value="https://forum.paradoxplaza.com/forum/threads/asset-icon-library.1672325/" />
-	<ModVersion Value="1.0" />
-	<GameVersion Value="1.*" />
-	<ExternalLink Type="discord" Url="https://discord.gg/E4k8ZEtRxd" />
+</LongDescription>
+  <Thumbnail Value="Properties/Thumbnail.png" />
+  <Screenshot Value="Properties/Screenshot01.png" />
+  <Screenshot Value="Properties/Screenshot02.png" />
+  <Screenshot Value="Properties/Screenshot03.png" />
+  <Screenshot Value="Properties/Screenshot04.png" />
+  <Screenshot Value="Properties/Screenshot05.png" />
+  <Screenshot Value="Properties/Screenshot06.png" />
+  <Screenshot Value="Properties/Screenshot07.png" />
+  <Screenshot Value="Properties/Screenshot08.png" />
+  <Screenshot Value="Properties/Screenshot09.png" />
+  <Screenshot Value="Properties/Screenshot10.png" />
+  <Tag Value="Code Mod" />
+  <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/asset-icon-library.1672325/" />
+  <ModVersion Value="0.9.4.3" />
+  <GameVersion Value="1.*" />
+  <ChangeLog>
+# v0.9.4.3
+Miscellaneous Hotfix
+</ChangeLog>
+  <ExternalLink Type="discord" Url="https://discord.gg/E4k8ZEtRxd" />
+  <ExternalLink Type="github" Url="https://github.com/JadHajjar/AssetIconLibrary-CSII" />
 </Publish>

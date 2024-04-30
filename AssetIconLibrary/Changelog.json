@@ -1,6 +1,20 @@
 [
   {
     "Stable": true,
+    "Version": "1.0.1",
+    "Date": "2024-04-30",
+    "ChangeGroups": [
+      {
+        "Name": "Changes",
+        "Changes": [
+          "Added 578 branding thumbnails.",
+          "Updated 703 prop thumbnails."
+        ]
+      }
+    ]
+  },
+  {
+    "Stable": true,
     "Version": "1.0.0",
     "Date": "2024-04-27",
     "ChangeGroups": [
